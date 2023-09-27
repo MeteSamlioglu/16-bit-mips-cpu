@@ -1,0 +1,184 @@
+C:/alu_16_bit_project/adder_8_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/adder_8_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_8_bit
+
+Top level modules:
+	adder_8_bit
+
+} {} {}} C:/alu_16_bit_project/alu_16_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/alu_16_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_16_bit
+
+Top level modules:
+	alu_16_bit
+
+} {} {}} C:/alu_16_bit_project/multiplexer_4x1.v {1 {vlog -work myCPU C:/alu_16_bit_project/multiplexer_4x1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplexer_4x1
+
+Top level modules:
+	multiplexer_4x1
+
+} {} {}} C:/32-bit-CPU/test_alu16bit.v {1 {vlog -work myCPU C:/32-bit-CPU/test_alu16bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_alu16bit
+
+Top level modules:
+	test_alu16bit
+
+} {} {}} C:/32-bit-CPU/test_Mips.v {1 {vlog -work work C:/32-bit-CPU/test_Mips.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_Mips
+
+Top level modules:
+	test_Mips
+
+} {} {}} C:/32-bit-CPU/registers.v {2 {vlog -work work C:/32-bit-CPU/registers.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module registers
+** Warning: C:/32-bit-CPU/registers.v(21): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	registers
+
+} {} {}} C:/alu_16_bit_project/full_adder.v {1 {vlog -work myCPU C:/alu_16_bit_project/full_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} C:/32-bit-CPU/sll_module.v {1 {vlog -work myCPU C:/32-bit-CPU/sll_module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sll_module
+
+Top level modules:
+	sll_module
+
+} {} {}} C:/32-bit-CPU/test_data_memory.v {2 {vlog -work work C:/32-bit-CPU/test_data_memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_data_memory
+** Warning: C:/32-bit-CPU/test_data_memory.v(26): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	test_data_memory
+
+} {} {}} C:/alu_16_bit_project/multiplexer_8x1.v {1 {vlog -work myCPU C:/alu_16_bit_project/multiplexer_8x1.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module multiplexer_8x1
+
+Top level modules:
+	multiplexer_8x1
+
+} {} {}} C:/32-bit-CPU/alu_control.v {1 {vlog -work myCPU C:/32-bit-CPU/alu_control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_control
+
+Top level modules:
+	alu_control
+
+} {} {}} C:/alu_16_bit_project/adder_16_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/adder_16_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_16_bit
+
+Top level modules:
+	adder_16_bit
+
+} {} {}} C:/alu_16_bit_project/xor_16_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/xor_16_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module xor_16_bit
+
+Top level modules:
+	xor_16_bit
+
+} {} {}} C:/alu_16_bit_project/or_16_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/or_16_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module or_16_bit
+
+Top level modules:
+	or_16_bit
+
+} {} {}} C:/alu_16_bit_project/and_16_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/and_16_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module and_16_bit
+
+Top level modules:
+	and_16_bit
+
+} {} {}} C:/32-bit-CPU/srl_module.v {1 {vlog -work myCPU C:/32-bit-CPU/srl_module.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module srl_module
+
+Top level modules:
+	srl_module
+
+} {} {}} C:/32-bit-CPU/test_registers.v {2 {vlog -work work C:/32-bit-CPU/test_registers.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_registers
+** Warning: C:/32-bit-CPU/test_registers.v(25): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/32-bit-CPU/test_registers.v(26): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	test_registers
+
+} {} {}} C:/32-bit-CPU/test_control_unit.v {1 {vlog -work myCPU C:/32-bit-CPU/test_control_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control_unit_test
+
+Top level modules:
+	control_unit_test
+
+} {} {}} C:/alu_16_bit_project/adder_4_bit.v {1 {vlog -work myCPU C:/alu_16_bit_project/adder_4_bit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module adder_4_bit
+
+Top level modules:
+	adder_4_bit
+
+} {} {}} C:/alu_16_bit_project/half_adder.v {1 {vlog -work myCPU C:/alu_16_bit_project/half_adder.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module half_adder
+
+Top level modules:
+	half_adder
+
+} {} {}} C:/32-bit-CPU/control_unit.v {1 {vlog -work myCPU C:/32-bit-CPU/control_unit.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module control_unit
+
+Top level modules:
+	control_unit
+
+} {} {}} C:/32-bit-CPU/test_alu_control.v {1 {vlog -work myCPU C:/32-bit-CPU/test_alu_control.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Alu_control_test
+
+Top level modules:
+	Alu_control_test
+
+} {} {}} C:/32-bit-CPU/test_instruction_memory.v {1 {vlog -work myCPU C:/32-bit-CPU/test_instruction_memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module test_instruction_memory
+
+Top level modules:
+	test_instruction_memory
+
+} {} {}} C:/32-bit-CPU/instruction_memory.v {1 {vlog -work myCPU C:/32-bit-CPU/instruction_memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} C:/32-bit-CPU/data_memory.v {1 {vlog -work work C:/32-bit-CPU/data_memory.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}}
